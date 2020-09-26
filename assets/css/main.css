@@ -2970,6 +2970,8 @@ input, select, textarea {
 
 /* Spotlight */
 
+
+
 	.spotlight {
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -2997,7 +2999,7 @@ input, select, textarea {
 				margin: 0 0 2em 0;
 			}
 
-		.spotlight .image {
+/*		.spotlight .image {
 			display: inline-block;
 			margin-left: 4em;
 			padding: 0.65em;
@@ -3010,7 +3012,7 @@ input, select, textarea {
 				border-radius: 100%;
 				width: 16em;
 			}
-
+*/
 		@media screen and (max-width: 980px) {
 
 			.spotlight {
